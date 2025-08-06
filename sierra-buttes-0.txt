@@ -1,0 +1,53 @@
+National Geodetic Survey,   Retrieval Date = AUGUST 20, 2002
+ KS1521 ***********************************************************************
+ KS1521  DESIGNATION -  SIERRA BUTTES LOOKOUT TWR 1949
+ KS1521  PID         -  KS1521
+ KS1521  STATE/COUNTY-  CA/SIERRA
+ KS1521  USGS QUAD   -  SIERRA CITY (1981)
+ KS1521
+ KS1521                         *CURRENT SURVEY CONTROL
+ KS1521  ___________________________________________________________________
+ KS1521* NAD 83(1992)-  39 35 36.90075(N)    120 38 48.80938(W)     ADJUSTED  
+ KS1521* NAVD 88     -      2618.     (meters)    8589.     (feet)  SCALED    
+ KS1521  ___________________________________________________________________
+ KS1521  EPOCH DATE  -        1991.35
+ KS1521  LAPLACE CORR-           4.13  (seconds)                    DEFLEC99
+ KS1521  GEOID HEIGHT-         -23.36  (meters)                     GEOID99
+ KS1521
+ KS1521  HORZ ORDER  -  THIRD
+ KS1521
+ KS1521.The horizontal coordinates were established by classical geodetic methods
+ KS1521.and adjusted by the National Geodetic Survey in March 1994.
+ KS1521.The horizontal coordinates are valid at the epoch date displayed above.
+ KS1521.The epoch date for horizontal control is a decimal equivalence
+ KS1521.of Year/Month/Day.
+ KS1521
+ KS1521.The orthometric height was scaled from a topographic map.
+ KS1521
+ KS1521.The Laplace correction was computed from DEFLEC99 derived deflections.
+ KS1521
+ KS1521.The geoid height was determined by GEOID99.
+ KS1521
+ KS1521;                    North         East     Units   Scale      Converg.
+ KS1521;SPC CA 2     -   714,767.711 2,116,219.621   MT  0.99995405 +0 51 11.1
+ KS1521;SPC CA 2     - 2,345,033.73  6,942,963.87   sFT  0.99995405 +0 51 11.1
+ KS1521;SPC CA 1     -   529,796.797 2,116,239.403   MT  1.00012706 +0 53 05.2
+ KS1521;SPC CA 1     - 1,738,174.99  6,943,028.77   sFT  1.00012706 +0 53 05.2
+ KS1521;UTM  10      - 4,385,295.808   702,057.140   MT  1.00010268 +1 30 00.8
+ KS1521
+ KS1521                          SUPERSEDED SURVEY CONTROL
+ KS1521
+ KS1521  NAD 83(1986)-  39 35 36.89691(N)    120 38 48.79293(W) AD(1984.00) 4
+ KS1521  NAD 27      -  39 35 37.26300(N)    120 38 45.01400(W) AD(       ) 3
+ KS1521
+ KS1521.Superseded values are not recommended for survey control.
+ KS1521.NGS no longer adjusts projects to the NAD 27 or NGVD 29 datums.
+ KS1521.See file dsdata.txt to determine how the superseded data were derived.
+ KS1521
+ KS1521  HISTORY     - Date     Condition        Report By
+ KS1521  HISTORY     - 1949     MONUMENTED       CGS
+ KS1521
+ KS1521                          STATION DESCRIPTION
+ KS1521
+ KS1521'DESCRIBED BY COAST AND GEODETIC SURVEY 1949
+ KS1521'SEE STATION SIERRA.
